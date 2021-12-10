@@ -1,0 +1,63 @@
+{
+  "ballboySize": "small",
+  "ballboyPos": {
+    "x": 20.0,
+    "y": 300.0
+  },
+  "cloudVelocity": 3.2,
+
+  "targetPos": {
+    "x": 600.0,
+    "y": 270.0
+  },
+
+  "mapSizeX" : 800.0,
+  "mapSizeY" : 800.0,
+
+  "floorHeight" : 300.0,
+
+  "platforms": [
+    {
+      "x": 60.0,
+      "y": 300.0,
+      "size": "large"
+    },
+    {
+      "x": 61.0,
+      "y": 150.0,
+      "size": "large"
+    },
+    {
+      "x": 93.0,
+      "y": 150.0,
+      "size": "large"
+    },
+    {
+      "x": 126.0,
+      "y": 150.0,
+      "size": "large"
+    },
+    {
+      "x": 156.0,
+      "y": 150.0,
+      "size": "large"
+    },
+    {
+      "x": 188.0,
+      "y": 160.0,
+      "size": "large"
+    },
+    {
+      "x": 220.0,
+      "y": 180.0,
+      "size": "large"
+    }
+  ],
+
+  "slimes": [
+
+  ]
+}
+
+
+
